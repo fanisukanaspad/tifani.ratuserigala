@@ -1,0 +1,71 @@
+!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rekomendasi Film Rom-Com</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff0f5;
+      color: #333;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #e75480;
+    }
+    .film {
+      background-color: #ffe4e1;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .film h2 {
+      margin-top: 0;
+      color: #c71585;
+    }
+    .film img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Rekomendasi Film Rom-Com Terbaik</h1>
+
+  <div class="film">
+    <h2>1. 10 Things I Hate About You (1999)</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/10_Things_I_Hate_About_You_film.jpg" alt="Poster 10 Things I Hate About You">
+    <p>Adaptasi modern dari karya Shakespeare dengan bumbu cinta remaja dan humor yang menyegarkan.</p>
+  </div>
+
+  <div class="film">
+    <h2>2. Crazy Rich Asians (2018)</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Crazy_Rich_Asians_poster.png" alt="Poster Crazy Rich Asians">
+    <p>Kisah cinta penuh drama dan kemewahan antara seorang profesor dan pewaris keluarga kaya dari Asia.</p>
+  </div>
+
+  <div class="film">
+    <h2>3. Love, Rosie (2014)</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Love%2C_Rosie_poster.jpg" alt="Poster Love, Rosie">
+    <p>Sahabat sejak kecil yang diam-diam saling mencintai, tapi waktu dan jarak terus menguji mereka.</p>
+  </div>
+
+  <div class="film">
+    <h2>4. Notting Hill (1999)</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/NottingHillRobertsGrant.jpg" alt="Poster Notting Hill">
+    <p>Cinta tak terduga antara selebriti dan pemilik toko buku kecil di London yang manis dan mengharukan.</p>
+  </div>
+
+  <div class="film">
+    <h2>5. To All the Boys I’ve Loved Before (2018)</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/To_All_the_Boys_I%27ve_Loved_Before_poster.png" alt="Poster To All the Boys I've Loved Before">
+    <p>Surat cinta rahasia yang tersebar berubah menjadi awal dari kisah cinta remaja yang menggemaskan.</p>
+  </div>
+
+</body>
+</html>
